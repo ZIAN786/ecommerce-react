@@ -74,15 +74,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 <br/><br/>
 
-> ### addItems (page) -->
+> ### shop (page) -->
 >
 > It fetches item urls + item ids (unique ids that the portal uses) from list page.
 
-> ### individualItem (page) -->
+> ### categoriesItem (page) -->
 >
 > Shows how many category related for the provided initial url
 
-> ### productItem (page) -->
+> ### cartItem (page) -->
 >
 > It shows the actual description and parses into the format: item id, title, price, quantity.
 
