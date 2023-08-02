@@ -76,7 +76,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 > ### shop (page) -->
 >
-> It fetches item urls + item ids (unique ids that the portal uses) from list page.
+> It fetches item urls + item ids from list page to buyers.
 
 > ### categoriesItem (page) -->
 >
