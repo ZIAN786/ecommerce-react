@@ -8,7 +8,7 @@ Ecommerce-React or E-Marketing
 
 ---
 
-This is a basic implementation of a throw out which will scrap primarily starting from the following url:
+This is a live URL of the project:
 
 https://sane-react-ecommerce.netlify.app/
 
